@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/grant-l-cawley-portfolio/static/css/main.4eae9a76.chunk.css",
+    "main.js": "/grant-l-cawley-portfolio/static/js/main.68ae62eb.chunk.js",
+    "main.js.map": "/grant-l-cawley-portfolio/static/js/main.68ae62eb.chunk.js.map",
+    "runtime-main.js": "/grant-l-cawley-portfolio/static/js/runtime-main.09907c06.js",
+    "runtime-main.js.map": "/grant-l-cawley-portfolio/static/js/runtime-main.09907c06.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/grant-l-cawley-portfolio/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.70022eb5.chunk.js": "/grant-l-cawley-portfolio/static/js/2.70022eb5.chunk.js",
+    "static/js/2.70022eb5.chunk.js.map": "/grant-l-cawley-portfolio/static/js/2.70022eb5.chunk.js.map",
+    "static/js/3.4fb08f07.chunk.js": "/grant-l-cawley-portfolio/static/js/3.4fb08f07.chunk.js",
+    "static/js/3.4fb08f07.chunk.js.map": "/grant-l-cawley-portfolio/static/js/3.4fb08f07.chunk.js.map",
+    "index.html": "/grant-l-cawley-portfolio/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/grant-l-cawley-portfolio/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.4eae9a76.chunk.css.map": "/grant-l-cawley-portfolio/static/css/main.4eae9a76.chunk.css.map",
+    "static/js/2.70022eb5.chunk.js.LICENSE.txt": "/grant-l-cawley-portfolio/static/js/2.70022eb5.chunk.js.LICENSE.txt",
+    "static/media/BlackJackCasino.14dc5764.png": "/grant-l-cawley-portfolio/static/media/BlackJackCasino.14dc5764.png",
+    "static/media/BudgetTracker.85050af9.png": "/grant-l-cawley-portfolio/static/media/BudgetTracker.85050af9.png",
+    "static/media/BurgerEater.2ec60198.png": "/grant-l-cawley-portfolio/static/media/BurgerEater.2ec60198.png",
+    "static/media/CasinoGamePage.ffa32b74.png": "/grant-l-cawley-portfolio/static/media/CasinoGamePage.ffa32b74.png",
+    "static/media/EmployeeCoordinator.f15ad373.png": "/grant-l-cawley-portfolio/static/media/EmployeeCoordinator.f15ad373.png",
+    "static/media/FitnessTracker.90f93627.png": "/grant-l-cawley-portfolio/static/media/FitnessTracker.90f93627.png",
+    "static/media/Grant Cawley - Resume.c1ddc0be.pdf": "/grant-l-cawley-portfolio/static/media/Grant Cawley - Resume.c1ddc0be.pdf",
+    "static/media/NoteTaker.d025f498.png": "/grant-l-cawley-portfolio/static/media/NoteTaker.d025f498.png",
+    "static/media/ProfilePic.c94e2573.jpg": "/grant-l-cawley-portfolio/static/media/ProfilePic.c94e2573.jpg",
+    "static/media/RecipeGenerator.b095e95a.png": "/grant-l-cawley-portfolio/static/media/RecipeGenerator.b095e95a.png",
+    "static/media/WeatherDashboard.47b3d438.png": "/grant-l-cawley-portfolio/static/media/WeatherDashboard.47b3d438.png",
+    "static/media/WorkdayPlanner.0b7d8cd9.png": "/grant-l-cawley-portfolio/static/media/WorkdayPlanner.0b7d8cd9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09907c06.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.70022eb5.chunk.js",
+    "static/css/main.4eae9a76.chunk.css",
+    "static/js/main.68ae62eb.chunk.js"
+  ]
+}
