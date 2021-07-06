@@ -10,7 +10,7 @@ const navbar = () => {
                 <Navbar.Brand className="brand">Grant Cawley</Navbar.Brand>
                 <Navbar.Toggle aria-controls='responsive-navbar-nav' />
                 <Navbar.Collapse className='justify-content-end' id='responsive-navbar-nav'>
-                    <Nav>
+                    <Nav className="links">
                         <Nav.Link href='/'>About</Nav.Link>
                         <Nav.Link href='/contact'>Contact</Nav.Link>
                         <Nav.Link href='/portfolio'>Portfolio</Nav.Link>
