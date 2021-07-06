@@ -1,11 +1,10 @@
 // import React, { useEffect, useState } from 'react'
 // import { useAppContext } from '../../utils/AppContext'
-import { Button, ButtonGroup, Col, Container, Image, Row } from 'react-bootstrap';
+import { Col, Container, Image, Row } from 'react-bootstrap';
 import "./style.css"
 import PageTitle from '../../components/PageTitle'
 
 import ProfilePic from '../../Assets/ProfilePic.jpg'
-import Resume from '../../Assets/Grant Cawley - Resume.pdf'
 
 const AboutPage = () => {
     return (
