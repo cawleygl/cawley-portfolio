@@ -6,10 +6,10 @@ import "./style.css"
 const card = (props) => {
     return (
         <Container fluid>
-            <Card className="card" style={{ width: '18rem' }}>
+            <Card style={{ width: '20rem' }}>
                 <Card.Img variant="top" src={props.asset} />
                 <Card.Body>
-                    <Card.Title>{props.title}</Card.Title>
+                    <Card.Header>{props.title}</Card.Header>
                     <Card.Text>{props.text}</Card.Text>
                     <ButtonGroup>
                         <Button size="sm" href={props.appLink} variant="danger">Application</Button>

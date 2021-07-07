@@ -1,10 +1,18 @@
 .card {
     margin: auto;
     margin-bottom: 25px;
-    width: auto;
     box-shadow: 3px 4px 4px lightgrey;
-
 }
 .card:hover {
     box-shadow: 5px 7px 4px lightgrey;
+}
+.card-header {
+    text-align: center;
+    color: red;
+    font-style: italic;
+    font-size: large;
+    font-weight: 250;
+}
+.card-text {
+    padding-top: 5px;
 }

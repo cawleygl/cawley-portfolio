@@ -1,14 +1,13 @@
 .title {
     font-family: 'Bebas Neue', cursive;
     border-bottom-style:double;
+    border-bottom-color: black;
     }
-
 .subtitle {
+    color: grey;
     font-style: italic;
-    opacity: 60%;
+    font-weight: 250;
     }
-    
-    
 .jumbotron {
     margin: 30px;
     }
