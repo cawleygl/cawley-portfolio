@@ -6,7 +6,7 @@ import "./style.css"
 const card = (props) => {
     return (
         <Container fluid>
-            <Card style={{ width: '20rem' }}>
+            <Card style={{ width: '18rem' }}>
                 <Card.Img variant="top" src={props.asset} />
                 <Card.Body>
                     <Card.Header>{props.title}</Card.Header>
