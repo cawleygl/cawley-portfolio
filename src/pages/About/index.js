@@ -25,7 +25,7 @@ const AboutPage = () => {
                         </Row> */}
         </Col>
         <Col className="about">
-          <p>Grant Cawley is a full-stack software developer currently located in Raleigh, North Carolina, with a certificate in Full Stack Web Development from Washington University Coding Boot Camp. He was most recently employed by Hopdrive in Richmond, Virginia as a Junior Frontend Developer: a web development role utilizing React, Javascript, GraphQL, MUI, Node.js, REST APIs, and other technologies. Grant graduated from Saint Louis University in the Spring of 2018 with a Bachelor of Science degree in Psychology, and Bachelor of Arts degree in Spanish Language and Literature. He has completed a number of coding projects through the Washington University Coding Boot Camp program, included in this portfolio. </p>
+          <p>Grant Cawley is a full-stack software developer currently located in Raleigh, North Carolina, with a certificate in Full Stack Web Development from Washington University Coding Boot Camp. He is currently working remotely for Hopdrive in Richmond, Virginia as a Junior Frontend Developer: a web development role utilizing React, Javascript, GraphQL, MUI, Node.js, REST APIs, and other technologies. Grant graduated from Saint Louis University in the Spring of 2018 with a Bachelor of Science degree in Psychology, and Bachelor of Arts degree in Spanish Language and Literature. He has completed a number of coding projects through the Washington University Coding Boot Camp program, included in this portfolio. </p>
         </Col>
       </Row>
     </Container>
