@@ -1,7 +1,11 @@
 {
-  "name": "grant-l-cawley-portfolio",
+  "name": "cawley-portfolio",
   "homepage": "https://cawleygl.github.io/grant-l-cawley-portfolio",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.15.4",
+    "npm": "7.24.0"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
