@@ -11,7 +11,7 @@ const AboutPage = () => {
     <Container>
       <PageTitle title="About Me" subtitle=""></PageTitle>
       <Row>
-        <Col sm={7} md={5} lg={4} >
+        <Col sm={4}>
           <Row>
             <Image height={200} src={ProfilePic} alt="Grant Cawley" thumbnail />
           </Row>
@@ -25,7 +25,7 @@ const AboutPage = () => {
                         </Row> */}
         </Col>
         <Col className="about">
-          <p>My name is Grant Cawley, and I am a Full-Stack Software Developer currently located in Charlotte, North Carolina, with a certificate in Full-Stack Web Development from Washington University Coding Boot Camp. I am currently employed by Capgemini in Charlotte as a Software Engineer in their Next-Generation Talent program. I previously worked for Hopdrive in Richmond Virginia as a Junior Frontend Developer: a web development role utilizing React, Javascript, GraphQL, MUI, Node.js, REST APIs, and other technologies. I graduated from Saint Louis University in the Spring of 2018 with a Bachelor of Science degree in Psychology and Spanish Language and Literature. I have completed a number of coding projects through the Washington University Coding Boot Camp program, included in this portfolio.</p>
+          <p>My name is Grant Cawley, and I am a Full-Stack Software Developer currently located in Charlotte, North Carolina, with a certificate in Full-Stack Web Development from Washington University Coding Boot Camp. I am currently employed by Capgemini in Charlotte as a Software Engineer in their Next-Generation Talent program. I previously worked for Hopdrive in Richmond Virginia as a Junior Frontend Developer: a web development role utilizing React, Javascript, GraphQL, MUI, Node.js, REST APIs, and other technologies. I graduated from Saint Louis University in the Spring of 2018 with a Bachelor of Science degree in Psychology and Spanish Language and Literature. I have completed a number of coding projects through the Washington University Coding Boot Camp program, included in this portfolio. </p>
         </Col>
       </Row>
     </Container>
