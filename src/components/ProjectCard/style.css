@@ -6,12 +6,19 @@
 .card:hover {
     box-shadow: 5px 7px 4px lightgrey;
 }
-.card-header {
+.card-title {
     text-align: center;
     color: red;
-    font-style: italic;
-    font-size: large;
-    font-weight: 250;
+    font-size: larger;
+    font-weight: bold;
+}
+.card-subtitle {
+  text-align: center;
+  color: #808080;
+  font-size:medium;
+  font-style: italic;
+  font-weight: light;
+  text-decoration:dashed;
 }
 .card-text {
     padding-top: 5px;

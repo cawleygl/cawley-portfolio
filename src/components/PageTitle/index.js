@@ -3,15 +3,14 @@ import { Jumbotron, Container } from 'react-bootstrap';
 
 import "./style.css"
 
-const pageTitle = (props) => {
+const pageTitle = ({title, subtitle}) => {
     return (
         <Jumbotron className="jumbotron">
             <Container>
-                <h1 className="title">{props.title}</h1>
-                <p className="subtitle">{props.subtitle}</p>
+                <h1 className="title">{title}</h1>
+                <p className="subtitle">{subtitle}</p>
             </Container>
         </Jumbotron>
-
     );
 }
 
